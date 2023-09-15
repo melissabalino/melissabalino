@@ -16,7 +16,7 @@ fields_of_interests:
     "C#"
   ]
 
-currently_learning: [".NET CORE MVC"]
+currently_learning: ["React Framework"]
 
 2023_Goals:
  [
