@@ -1,19 +1,20 @@
 ```yaml
 name: Melissa Balino
 located_in: Greater Kansas City Metropolitan Area
-current_job: Full Stack Developer (in training)
+current_job: Full Stack Developer
 education:
   [
-    "Full Stack Coding Program",
-    "Masters in Public Administration with emphasis in Healthcare Administration",
-    "Bachelor's in Health Sciences"
+    "Full Stack Coding Program at Centriq IT Training",
+    "Masters in Public Administration with emphasis in Healthcare Administration at UMKC",
+    "Bachelor's in Health Sciences at UMKC"
   ]
 
 fields_of_interests:
   [
     "Responsive/Mobile Web Development",
     "Game Development",
-    "C#"
+    "C#",
+    "React"
   ]
 
 currently_learning: ["React Framework"]
