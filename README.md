@@ -12,7 +12,7 @@ education:
 fields_of_interests:
   [
     "Responsive/Mobile Web Development",
-    "Game Development",
+    ".NET Core MVC",
     "C#",
     "React"
   ]
@@ -21,8 +21,8 @@ currently_learning: ["React Framework"]
 
 2023_Goals:
  [
-    "Graduate from my Full Stack Coding Program (coming soon Oct 2023)",
-    "Obtain work utilizing my new added skillset",
+    "Graduate from my Full Stack Coding Program (completed Oct 6, 2023)",
+    "Obtain work utilizing my new added skillset (in-progress)",
     "Update personal website to version 2.0"
   ]
 ```
