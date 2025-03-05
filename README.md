@@ -1,7 +1,7 @@
 ```yaml
 name: Melissa Balino
 located_in: Greater Kansas City Metropolitan Area
-current_job: Full Stack Web Developer at LifeScience Technologies, LLC.
+current_job: Full Stack Web Developer
 education:
   [
     "Full Stack Coding Program at Centriq IT Training",
@@ -16,5 +16,5 @@ fields_of_interests:
     "C#",
   ]
 
-currently_learning: ["Kotlin"]
+currently_learning: ["Java"]
 ```
