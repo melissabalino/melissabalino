@@ -14,7 +14,12 @@ fields_of_interests:
     "Responsive/Mobile Web Development",
     ".NET Core MVC",
     "C#",
+    "AI Solutions"
   ]
 
-currently_learning: ["Java"]
+currently_learning:
+  [
+    "Java",
+    "Python"
+  ]
 ```
